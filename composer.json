@@ -1,0 +1,16 @@
+{
+    "name": "raissaramos15/crud-postman",
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    },
+    "authors": [
+        {
+            "name": "RaissaRamos15",
+            "email": "raissa.ramos150106@gmail.com"
+        }
+    ],
+    "require": {
+    }
+}
